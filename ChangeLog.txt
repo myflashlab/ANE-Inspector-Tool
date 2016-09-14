@@ -1,5 +1,8 @@
 ANE Inspector Adobe Air Native Extension
 
+*Sep 14, 2016 - V1.0.2*
+* Updated RichWebview to 6.5.0
+
 *Sep 13, 2016 - V1.0.1*
 * Added Firebase Crash ANE
 

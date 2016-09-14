@@ -1,5 +1,5 @@
 ![ANE Inspector tool](http://www.myflashlabs.com/wp-content/uploads/2016/09/myflashlabs-inspector-ane.jpg)
-# ANE Inspector V1.0.1 (Android+iOS)
+# ANE Inspector V1.0.2 (Android+iOS)
 The main job of this ANE is to check the ANEs you are implementing in your Air project to see if the platform you are running on meets the minimum requirements needed by those ANEs. Besides that, this ANE can also check if the target running ANE is having access to all the required dependency ANEs (if any) or not.
 
 Use of this ANE is optional however we do recommend using it in all your projects as it will help you avoid developing mistakes to save you a lot of time. You can also safely know if the running platform can run a specefic ANE or not.
@@ -31,6 +31,9 @@ On the other hand, the second parameter, checks the platform your app is running
 ```
 
 # Changelog
+*Sep 14, 2016 - V1.0.2*
+* Updated RichWebview to 6.5.0
+
 *Sep 13, 2016 - V1.0.1*
 * Added Firebase Crash ANE
 
