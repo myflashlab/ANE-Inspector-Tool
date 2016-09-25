@@ -1,5 +1,10 @@
 ANE Inspector Adobe Air Native Extension
 
+*Sep 25, 2016 - V1.0.3*
+* Updated Firebase to 1.2.0
+* Updated Google VR to 2.0.0
+* Updated GCM to 5.0.1
+
 *Sep 14, 2016 - V1.0.2*
 * Updated RichWebview to 6.5.0
 
