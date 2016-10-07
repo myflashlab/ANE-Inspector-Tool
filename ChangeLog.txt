@@ -1,5 +1,8 @@
 ANE Inspector Adobe Air Native Extension
 
+*Oct 07, 2016 - V1.0.5*
+* fixed [this issue](https://github.com/myflashlab/Firebase-ANE/issues/24)
+
 *Sep 29, 2016 - V1.0.4*
 * Added Firebase FCM ANE
 
