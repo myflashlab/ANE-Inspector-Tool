@@ -1,6 +1,9 @@
 ANE Inspector Adobe Air Native Extension
 
-*Oct 23, 2016 - V1.0.6*
+*Oct 23, 2016 - V1.0.7*
+* Fixed [this issue](https://github.com/myflashlab/Firebase-ANE/issues/26)
+
+*Oct 22, 2016 - V1.0.6*
 * Updated Google VR to 2.0.1
 * Updated SurfacePlayer to 3.3.0
 
