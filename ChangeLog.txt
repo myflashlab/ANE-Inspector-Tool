@@ -1,5 +1,8 @@
 ANE Inspector Adobe Air Native Extension
 
+*Nov 03, 2016 - V1.0.11*
+* Updated PermissionCheck to 2.0.2
+
 *Nov 02, 2016 - V1.0.10*
 * Updated PermissionCheck to 2.0.1
 
