@@ -1,5 +1,5 @@
 ![ANE Inspector tool](http://www.myflashlabs.com/wp-content/uploads/2016/09/myflashlabs-inspector-ane.jpg)
-# ANE Inspector V1.0.11 (Android+iOS)
+# ANE Inspector V1.0.12 (Android+iOS)
 The main job of this ANE is to check the ANEs you are implementing in your Air project to see if the platform you are running on meets the minimum requirements needed by those ANEs. Besides that, this ANE can also check if the target running ANE is having access to all the required dependency ANEs (if any) or not.
 
 Use of this ANE is optional however we do recommend using it in all your projects as it will help you avoid developing mistakes to save you a lot of time. You can also safely know if the running platform can run a specefic ANE or not.
@@ -31,6 +31,24 @@ On the other hand, the second parameter, checks the platform your app is running
 ```
 
 # Changelog
+*Nov 11, 2016 - V1.0.12*
+* Updated PermissionCheck to V2.0.2
+* Updated RichWebview ANE to V6.6.0
+* Updated ZipManager ANE to V3.0.0
+* Updated VideoPlayer ANE to V3.0.0
+* Updated Surface Video Player ANE to V3.4.0
+* Updated Volume ANE to V1.1.0
+* Updated RateMe ANE to V1.1.0
+* Updated PDF ANE to V2.1.0
+* Updated in-app-payments ANE to V2.1.0
+* Updated GPS ANE to V3.2.0
+* Updated GoogleVR ANE to V2.1.0
+* Updated GameServices ANE to V2.1.0
+* Updated FileChooser ANE to V4.1.0
+* Updated Facebook ANE to V4.17.0
+* Updated Barcode Scanner ANE to V3.2.0
+* Updated Admob ANE to V1.1.0
+
 *Nov 03, 2016 - V1.0.11*
 * Updated PermissionCheck to 2.0.2
 
