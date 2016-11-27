@@ -31,6 +31,9 @@ On the other hand, the second parameter, checks the platform your app is running
 ```
 
 # Changelog
+*Nov 27, 2016 - V1.0.13*
+* Updated Firebase to 2.0.0
+
 *Nov 11, 2016 - V1.0.12*
 * Updated PermissionCheck to V2.0.2
 * Updated RichWebview ANE to V6.6.0
