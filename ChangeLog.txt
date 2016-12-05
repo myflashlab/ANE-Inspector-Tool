@@ -1,5 +1,8 @@
 ANE Inspector Adobe Air Native Extension
 
+*Dec 05, 2016 - V1.0.14*
+* Fixed this [issue](https://github.com/myflashlab/ANE-Inspector-Tool/issues/2)
+
 *Nov 27, 2016 - V1.0.13*
 * Updated Firebase to 2.0.0
 
