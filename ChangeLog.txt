@@ -1,5 +1,8 @@
 ANE Inspector Adobe Air Native Extension
 
+*Jan 10, 2017 - V1.0.15*
+* Updated GoogleVR ANE to V2.1.1
+
 *Dec 05, 2016 - V1.0.14*
 * Fixed this [issue](https://github.com/myflashlab/ANE-Inspector-Tool/issues/2)
 
