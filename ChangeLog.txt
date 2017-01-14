@@ -1,5 +1,8 @@
 ANE Inspector Adobe Air Native Extension
 
+*Jan 14, 2017 - V1.0.16*
+* Updated Firebase ANE to V3.0.0
+
 *Jan 10, 2017 - V1.0.15*
 * Updated GoogleVR ANE to V2.1.1
 
