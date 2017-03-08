@@ -1,5 +1,9 @@
 ANE Inspector Adobe Air Native Extension
 
+*Mar 07, 2017 - V1.0.17*
+* Updated Firebase ANE to V4.0.0
+* Updated Admob ANE to V2.1.0
+
 *Jan 14, 2017 - V1.0.16*
 * Updated Firebase ANE to V3.0.0
 
