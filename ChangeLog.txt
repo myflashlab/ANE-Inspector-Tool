@@ -1,5 +1,23 @@
 ANE Inspector Adobe Air Native Extension
 
+*Mar 31, 2017 - V1.0.18*
+* Updated Barcode to V3.3.0
+* Updated Facebook to V4.17.1
+* Updated FileChooser to V4.1.1
+* Updated GameServices to V2.2.0
+* Updated GPS to V3.2.1
+* Updated in-app-payments to V2.2.0
+* Updated PDFViewer to V2.1.1
+* Updated PermissionCheck to V2.1.0
+* Updated RateMe to V1.1.1
+* Updated Spotlight to V1.0.1
+* Updated VideoPlayer to V3.0.1
+* Updated SurfaceVideoPlayer to V3.4.1
+* Updated Volume to V1.1.1
+* Updated Badge to V1.1.0
+* Updated Statusbar to V1.0.1
+* Updated ZipManager to V3.0.1
+
 *Mar 07, 2017 - V1.0.17*
 * Updated Firebase ANE to V4.0.0
 * Updated Admob ANE to V2.1.0
