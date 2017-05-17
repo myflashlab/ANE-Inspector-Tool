@@ -1,5 +1,10 @@
 ANE Inspector Adobe Air Native Extension
 
+*May 17, 2017 - V1.0.19*
+* Updated Facebook to V4.22.1
+* Updated RichWebview to V7.1.0
+* Updated VR to V2.2.1
+
 *Mar 31, 2017 - V1.0.18*
 * Updated Barcode to V3.3.0
 * Updated Facebook to V4.17.1
