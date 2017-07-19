@@ -1,5 +1,8 @@
 ANE Inspector Adobe Air Native Extension
 
+*Jul 19, 2017 - V1.0.20*
+* Updated Firebase collection/Admob/Volume
+
 *May 17, 2017 - V1.0.19*
 * Updated Facebook to V4.22.1
 * Updated RichWebview to V7.1.0
