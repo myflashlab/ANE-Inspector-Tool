@@ -1,5 +1,9 @@
 ANE Inspector Adobe Air Native Extension
 
+*Aug 01, 2017 - V1.0.21*
+* Updated GPS to V3.3.0
+* Added LocalNotification ANE
+
 *Jul 19, 2017 - V1.0.20*
 * Updated Firebase collection/Admob/Volume
 
