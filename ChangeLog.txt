@@ -1,5 +1,8 @@
 ANE Inspector Adobe Air Native Extension
 
+*Aug 14, 2017 - V1.0.22*
+* Updated PermissionCheck to V2.2.0
+
 *Aug 01, 2017 - V1.0.21*
 * Updated GPS to V3.3.0
 * Added LocalNotification ANE
