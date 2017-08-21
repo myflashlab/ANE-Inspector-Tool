@@ -1,5 +1,8 @@
 ANE Inspector Adobe Air Native Extension
 
+*Aug 21, 2017 - V1.0.24*
+* Updated Firebase to V5.1.0
+
 *Aug 15, 2017 - V1.0.23*
 * Updated UDID to V1.1.1
 
