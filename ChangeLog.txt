@@ -1,5 +1,8 @@
 ANE Inspector Adobe Air Native Extension
 
+*Aug 24, 2017 - V1.0.25*
+* Updated Barcode to V3.4.0
+
 *Aug 21, 2017 - V1.0.24*
 * Updated Firebase to V5.1.0
 
