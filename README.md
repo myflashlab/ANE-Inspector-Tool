@@ -1,4 +1,7 @@
 ![ANE Inspector tool](http://www.myflashlabs.com/wp-content/uploads/2016/09/myflashlabs-inspector-ane.jpg)
+
+:point_right: **NOTICE:** The inspector ANE is now deprecated. The [ANE-LAB software](https://github.com/myflashlab/ANE-LAB/) will be using it internally and this repository will no longer be updated. You are encouraged to remove this ANE from your project and instead use the ANE-LAB. :point_left:
+
 # ANE Inspector V1.0.26 (Android+iOS)
 The main job of this ANE is to check the ANEs you are implementing in your Air project to see if the platform you are running on meets the minimum requirements needed by those ANEs. Besides that, this ANE can also check if the target running ANE is having access to all the required dependency ANEs (if any) or not.
 
@@ -9,6 +12,7 @@ Use of this ANE is optional however we do recommend using it in all your project
 
 # Air Usage
 Using this ANE is very easy. All you have to do is to call the [check](http://myflashlab.github.io/asdoc/com/myflashlab/air/extensions/inspector/Inspector.html#check()) method and pass in the name of the ANE class you wish to inspect along with the type of check you wish to construct.
+
 ```actionscript
 import com.myflashlab.air.extensions.inspector.Inspector;
 
